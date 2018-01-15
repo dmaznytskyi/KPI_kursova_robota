@@ -1,0 +1,535 @@
+Debug[11.05.2017 00:11:34.420]: Game started
+Debug[11.05.2017 00:17:23.812]: Game started
+Debug[11.05.2017 00:17:35.985]: Game started
+Debug[11.05.2017 00:17:49.216]: Game started
+Debug[11.05.2017 00:18:00.728]: Game started
+Debug[11.05.2017 00:21:44.192]: Game started
+Debug[11.05.2017 00:25:30.946]: Game started
+Debug[11.05.2017 00:27:57.999]: Game started
+Debug[11.05.2017 00:29:33.716]: Game started
+Debug[11.05.2017 00:35:16.099]: Game started
+Debug[11.05.2017 00:36:42.571]: Game started
+Debug[11.05.2017 00:41:45.898]: Game started
+Debug[11.05.2017 00:42:23.682]: Game started
+Debug[11.05.2017 00:42:48.434]: Game started
+Debug[11.05.2017 00:43:52.187]: Game started
+Debug[11.05.2017 00:44:36.200]: Game started
+Debug[11.05.2017 00:44:54.973]: Game started
+Debug[11.05.2017 00:45:11.025]: Game started
+Debug[11.05.2017 00:45:35.901]: Game started
+Debug[11.05.2017 00:45:51.601]: Game started
+Debug[11.05.2017 00:46:05.116]: Game started
+Debug[11.05.2017 00:46:23.846]: Game started
+Debug[11.05.2017 00:46:37.403]: Game started
+Debug[11.05.2017 00:47:02.538]: Game started
+Debug[11.05.2017 00:47:10.771]: Game started
+Debug[11.05.2017 00:47:22.227]: Game started
+Debug[11.05.2017 00:48:04.583]: Game started
+Debug[11.05.2017 00:48:26.989]: Game started
+Debug[11.05.2017 00:49:10.170]: Game started
+Debug[11.05.2017 00:51:54.642]: Game started
+Debug[11.05.2017 00:53:03.443]: Game started
+Debug[11.05.2017 00:55:06.668]: Game started
+Debug[11.05.2017 00:55:43.659]: Game started
+Debug[11.05.2017 00:56:17.144]: Game started
+Debug[11.05.2017 00:56:58.852]: Game started
+Debug[11.05.2017 11:06:44.582]: Game started
+Debug[11.05.2017 11:07:32.654]: Game started
+Debug[11.05.2017 11:07:39.674]: Game started
+Debug[11.05.2017 11:08:19.164]: Game started
+Debug[11.05.2017 11:08:31.197]: Game started
+Debug[11.05.2017 11:09:45.111]: Game started
+Debug[11.05.2017 11:10:53.919]: Game started
+Debug[11.05.2017 11:11:32.973]: Game started
+Debug[11.05.2017 11:11:51.914]: Game started
+Debug[11.05.2017 11:11:59.277]: Game started
+Debug[11.05.2017 11:12:20.141]: Game started
+Debug[11.05.2017 11:12:29.940]: Game started
+Debug[11.05.2017 11:12:37.865]: Game started
+Debug[11.05.2017 11:12:46.171]: Game started
+Debug[11.05.2017 11:12:58.261]: Game started
+Debug[11.05.2017 11:13:09.538]: Game started
+Debug[11.05.2017 11:13:47.687]: Game started
+Debug[11.05.2017 12:15:16.011]: Game started
+Debug[11.05.2017 12:15:42.563]: Game started
+Debug[11.05.2017 12:15:54.909]: Game started
+Debug[11.05.2017 12:16:52.319]: Game started
+Debug[11.05.2017 12:26:49.408]: Game started
+Debug[11.05.2017 12:27:14.273]: Game started
+Debug[11.05.2017 12:27:32.693]: Game started
+Debug[11.05.2017 12:27:43.045]: Game started
+Debug[11.05.2017 12:27:53.795]: Game started
+Debug[11.05.2017 12:31:08.539]: Game started
+Debug[11.05.2017 12:31:54.909]: Game started
+Debug[11.05.2017 12:32:16.065]: Game started
+Debug[11.05.2017 12:32:43.026]: Game started
+Debug[11.05.2017 12:33:31.948]: Game started
+Debug[11.05.2017 12:35:37.653]: Game started
+Debug[11.05.2017 12:36:02.839]: Game started
+Debug[11.05.2017 12:36:36.709]: Game started
+Debug[11.05.2017 12:39:56.472]: Game started
+Debug[11.05.2017 12:46:04.279]: Game started
+Debug[11.05.2017 12:48:34.918]: Game started
+Debug[11.05.2017 12:50:41.028]: Game started
+Debug[11.05.2017 13:11:38.146]: Game started
+Debug[11.05.2017 13:12:45.033]: Game started
+Debug[11.05.2017 13:16:56.604]: Game started
+Debug[11.05.2017 13:17:18.699]: Game started
+Debug[11.05.2017 13:17:44.588]: Game started
+Debug[11.05.2017 13:18:25.575]: Game started
+Debug[11.05.2017 13:19:34.182]: Game started
+Debug[11.05.2017 13:20:31.246]: Game started
+Debug[11.05.2017 13:27:36.460]: Game started
+Debug[11.05.2017 13:31:50.480]: Game started
+Debug[11.05.2017 13:33:38.698]: Game started
+Debug[11.05.2017 13:34:41.165]: Game started
+Debug[11.05.2017 13:34:55.846]: Game started
+Debug[11.05.2017 13:35:02.842]: Game started
+Debug[11.05.2017 13:35:11.878]: Game started
+Debug[11.05.2017 13:35:32.964]: Game started
+Debug[11.05.2017 13:35:45.720]: Game started
+Debug[11.05.2017 13:36:52.932]: Game started
+Debug[11.05.2017 13:37:06.437]: Game started
+Debug[11.05.2017 13:37:19.250]: Game started
+Debug[11.05.2017 13:38:31.059]: Game started
+Debug[11.05.2017 13:38:54.344]: Game started
+Debug[11.05.2017 13:41:55.008]: Game started
+Debug[11.05.2017 13:42:10.349]: Game started
+Debug[11.05.2017 13:42:25.204]: Game started
+Debug[11.05.2017 13:42:53.732]: Game started
+Debug[11.05.2017 13:44:05.844]: Game started
+Debug[11.05.2017 13:44:23.472]: Game started
+Debug[11.05.2017 13:45:49.365]: Game started
+Debug[11.05.2017 13:47:02.833]: Game started
+Debug[11.05.2017 13:47:13.145]: Game started
+Debug[11.05.2017 13:47:22.332]: Game started
+Debug[11.05.2017 13:47:32.988]: Game started
+Debug[11.05.2017 13:47:50.054]: Game started
+Debug[11.05.2017 13:48:09.806]: Game started
+Debug[11.05.2017 13:48:23.316]: Game started
+Debug[11.05.2017 13:48:50.411]: Game started
+Debug[11.05.2017 13:49:13.098]: Game started
+Debug[11.05.2017 13:49:23.766]: Game started
+Debug[11.05.2017 13:51:06.915]: Game started
+Debug[11.05.2017 13:51:34.136]: Game started
+Debug[11.05.2017 13:51:46.606]: Game started
+Debug[11.05.2017 13:52:01.322]: Game started
+Debug[11.05.2017 13:52:53.384]: Game started
+Debug[11.05.2017 13:53:12.984]: Game started
+Debug[11.05.2017 13:53:49.933]: Game started
+Debug[11.05.2017 13:54:33.742]: Game started
+Debug[11.05.2017 13:54:55.912]: Game started
+Debug[11.05.2017 13:55:23.568]: Game started
+Debug[11.05.2017 13:56:11.192]: Game started
+Debug[11.05.2017 13:56:41.614]: Game started
+Debug[11.05.2017 13:57:13.234]: Game started
+Debug[11.05.2017 13:57:39.714]: Game started
+Debug[11.05.2017 13:58:24.000]: Game started
+Debug[11.05.2017 13:59:08.158]: Game started
+Debug[11.05.2017 13:59:56.488]: Game started
+Debug[11.05.2017 14:00:42.547]: Game started
+Debug[11.05.2017 14:01:41.881]: Game started
+Debug[11.05.2017 14:02:15.489]: Game started
+Debug[11.05.2017 14:02:53.332]: Game started
+Debug[11.05.2017 14:03:38.047]: Game started
+Debug[11.05.2017 14:04:35.455]: Game started
+Debug[11.05.2017 14:05:24.347]: Game started
+Debug[11.05.2017 14:06:07.988]: Game started
+Debug[11.05.2017 14:06:43.755]: Game started
+Debug[11.05.2017 14:07:01.945]: Game started
+Debug[11.05.2017 14:07:28.112]: Game started
+Debug[11.05.2017 14:07:39.650]: Game started
+Debug[11.05.2017 14:07:49.206]: Game started
+Debug[11.05.2017 14:08:01.063]: Game started
+Debug[11.05.2017 14:08:31.937]: Game started
+Debug[11.05.2017 14:08:47.702]: Game started
+Debug[11.05.2017 14:11:05.889]: Game started
+Debug[11.05.2017 14:12:05.901]: Game started
+Debug[11.05.2017 14:24:29.058]: Game started
+Warning[11.05.2017 14:24:36.255]: libpng warning: iCCP: known incorrect sRGB profile
+Debug[11.05.2017 14:25:21.743]: Game started
+Warning[11.05.2017 14:25:28.958]: libpng warning: iCCP: known incorrect sRGB profile
+Debug[11.05.2017 14:25:40.816]: Game started
+Warning[11.05.2017 14:25:48.038]: libpng warning: iCCP: known incorrect sRGB profile
+Debug[11.05.2017 14:26:55.660]: Game started
+Warning[11.05.2017 14:27:02.869]: libpng warning: iCCP: known incorrect sRGB profile
+Debug[11.05.2017 14:29:05.832]: Game started
+Warning[11.05.2017 14:29:13.206]: libpng warning: iCCP: known incorrect sRGB profile
+Debug[11.05.2017 14:29:35.263]: Game started
+Warning[11.05.2017 14:29:42.482]: libpng warning: iCCP: known incorrect sRGB profile
+Warning[11.05.2017 14:30:35.368]: libpng warning: iCCP: known incorrect sRGB profile
+Warning[11.05.2017 14:30:45.362]: libpng warning: iCCP: known incorrect sRGB profile
+Warning[11.05.2017 14:31:15.359]: libpng warning: iCCP: known incorrect sRGB profile
+Warning[11.05.2017 14:31:45.368]: libpng warning: iCCP: known incorrect sRGB profile
+Warning[11.05.2017 14:32:15.360]: libpng warning: iCCP: known incorrect sRGB profile
+Warning[11.05.2017 14:32:45.355]: libpng warning: iCCP: known incorrect sRGB profile
+Warning[11.05.2017 14:33:15.364]: libpng warning: iCCP: known incorrect sRGB profile
+Debug[11.05.2017 14:33:44.449]: Game started
+Warning[11.05.2017 14:33:51.660]: libpng warning: iCCP: known incorrect sRGB profile
+Warning[11.05.2017 14:34:44.359]: libpng warning: iCCP: known incorrect sRGB profile
+Warning[11.05.2017 14:34:54.376]: libpng warning: iCCP: known incorrect sRGB profile
+Warning[11.05.2017 14:35:24.365]: libpng warning: iCCP: known incorrect sRGB profile
+Warning[11.05.2017 14:35:54.355]: libpng warning: iCCP: known incorrect sRGB profile
+Warning[11.05.2017 14:36:24.354]: libpng warning: iCCP: known incorrect sRGB profile
+Debug[11.05.2017 14:37:19.659]: Game started
+Warning[11.05.2017 14:37:26.856]: libpng warning: iCCP: known incorrect sRGB profile
+Debug[11.05.2017 14:37:31.435]: Game started
+Debug[11.05.2017 14:56:42.139]: Game started
+Warning[11.05.2017 14:56:43.774]: libpng warning: iCCP: known incorrect sRGB profile
+Debug[11.05.2017 14:57:05.484]: Game started
+Warning[11.05.2017 14:57:06.149]: libpng warning: iCCP: known incorrect sRGB profile
+Debug[11.05.2017 14:57:10.672]: Game started
+Warning[11.05.2017 14:57:17.858]: libpng warning: iCCP: known incorrect sRGB profile
+Debug[11.05.2017 15:12:09.396]: Game started
+Warning[11.05.2017 15:12:11.359]: libpng warning: iCCP: known incorrect sRGB profile
+Debug[11.05.2017 15:29:06.368]: Game started
+Warning[11.05.2017 15:29:08.498]: libpng warning: iCCP: known incorrect sRGB profile
+Debug[11.05.2017 15:30:00.208]: Game started
+Warning[11.05.2017 15:30:00.753]: libpng warning: iCCP: known incorrect sRGB profile
+Debug[11.05.2017 15:30:16.688]: Game started
+Warning[11.05.2017 15:30:17.184]: libpng warning: iCCP: known incorrect sRGB profile
+Debug[11.05.2017 15:30:32.159]: Game started
+Warning[11.05.2017 15:30:33.492]: libpng warning: iCCP: known incorrect sRGB profile
+Debug[11.05.2017 15:32:25.219]: Game started
+Warning[11.05.2017 15:32:26.549]: libpng warning: iCCP: known incorrect sRGB profile
+Debug[11.05.2017 15:32:48.798]: Game started
+Warning[11.05.2017 15:32:49.197]: libpng warning: iCCP: known incorrect sRGB profile
+Debug[11.05.2017 15:33:08.326]: Game started
+Warning[11.05.2017 15:33:08.824]: libpng warning: iCCP: known incorrect sRGB profile
+Debug[11.05.2017 15:33:17.294]: Game started
+Warning[11.05.2017 15:33:17.855]: libpng warning: iCCP: known incorrect sRGB profile
+Debug[11.05.2017 15:33:27.792]: Game started
+Warning[11.05.2017 15:33:28.136]: libpng warning: iCCP: known incorrect sRGB profile
+Debug[11.05.2017 15:33:35.646]: Game started
+Warning[11.05.2017 15:33:36.072]: libpng warning: iCCP: known incorrect sRGB profile
+Debug[11.05.2017 15:34:43.801]: Game started
+Warning[11.05.2017 15:34:44.633]: libpng warning: iCCP: known incorrect sRGB profile
+Debug[11.05.2017 15:35:07.219]: Game started
+Warning[11.05.2017 15:35:07.646]: libpng warning: iCCP: known incorrect sRGB profile
+Debug[11.05.2017 15:35:24.700]: Game started
+Warning[11.05.2017 15:35:25.284]: libpng warning: iCCP: known incorrect sRGB profile
+Debug[11.05.2017 15:35:30.834]: Game started
+Warning[11.05.2017 15:35:31.241]: libpng warning: iCCP: known incorrect sRGB profile
+Debug[11.05.2017 15:35:34.673]: Game started
+Warning[11.05.2017 15:35:35.454]: libpng warning: iCCP: known incorrect sRGB profile
+Debug[11.05.2017 15:37:41.646]: Game started
+Warning[11.05.2017 15:37:48.839]: libpng warning: iCCP: known incorrect sRGB profile
+Debug[11.05.2017 15:38:13.978]: Game started
+Warning[11.05.2017 15:38:14.845]: libpng warning: iCCP: known incorrect sRGB profile
+Debug[11.05.2017 15:38:30.566]: Game started
+Warning[11.05.2017 15:38:31.215]: libpng warning: iCCP: known incorrect sRGB profile
+Debug[11.05.2017 15:42:38.619]: Game started
+Warning[11.05.2017 15:42:41.437]: libpng warning: iCCP: known incorrect sRGB profile
+Debug[11.05.2017 15:43:22.532]: Game started
+Warning[11.05.2017 15:43:23.079]: libpng warning: iCCP: known incorrect sRGB profile
+Debug[11.05.2017 15:43:40.101]: Game started
+Warning[11.05.2017 15:43:40.473]: libpng warning: iCCP: known incorrect sRGB profile
+Debug[11.05.2017 15:43:49.523]: Game started
+Warning[11.05.2017 15:43:49.855]: libpng warning: iCCP: known incorrect sRGB profile
+Debug[11.05.2017 15:43:58.550]: Game started
+Warning[11.05.2017 15:43:58.935]: libpng warning: iCCP: known incorrect sRGB profile
+Debug[11.05.2017 15:44:06.284]: Game started
+Warning[11.05.2017 15:44:07.202]: libpng warning: iCCP: known incorrect sRGB profile
+Debug[11.05.2017 15:44:19.192]: Game started
+Warning[11.05.2017 15:44:19.701]: libpng warning: iCCP: known incorrect sRGB profile
+Debug[11.05.2017 15:44:27.293]: Game started
+Warning[11.05.2017 15:44:27.829]: libpng warning: iCCP: known incorrect sRGB profile
+Debug[11.05.2017 15:44:39.030]: Game started
+Warning[11.05.2017 15:44:39.562]: libpng warning: iCCP: known incorrect sRGB profile
+Debug[11.05.2017 15:44:59.391]: Game started
+Warning[11.05.2017 15:44:59.857]: libpng warning: iCCP: known incorrect sRGB profile
+Debug[11.05.2017 15:45:56.445]: Game started
+Warning[11.05.2017 15:46:03.636]: libpng warning: iCCP: known incorrect sRGB profile
+Debug[11.05.2017 17:04:53.397]: Game started
+Warning[11.05.2017 17:05:00.622]: libpng warning: iCCP: known incorrect sRGB profile
+Debug[13.05.2017 02:08:56.232]: Game started
+Warning[13.05.2017 02:09:03.438]: libpng warning: iCCP: known incorrect sRGB profile
+Debug[13.05.2017 02:09:30.267]: Game started
+Warning[13.05.2017 02:09:31.689]: libpng warning: iCCP: known incorrect sRGB profile
+Debug[13.05.2017 02:15:23.036]: Game started
+Warning[13.05.2017 02:15:23.863]: libpng warning: iCCP: known incorrect sRGB profile
+Debug[13.05.2017 02:15:47.595]: Game started
+Warning[13.05.2017 02:15:48.804]: libpng warning: iCCP: known incorrect sRGB profile
+Debug[13.05.2017 02:16:58.163]: Game started
+Warning[13.05.2017 02:16:58.651]: libpng warning: iCCP: known incorrect sRGB profile
+Debug[13.05.2017 02:17:52.907]: Game started
+Warning[13.05.2017 02:17:53.428]: libpng warning: iCCP: known incorrect sRGB profile
+Debug[13.05.2017 09:41:14.031]: Game started
+Warning[13.05.2017 09:41:20.166]: libpng warning: iCCP: known incorrect sRGB profile
+Debug[13.05.2017 09:51:08.883]: Game started
+Warning[13.05.2017 09:51:10.831]: libpng warning: iCCP: known incorrect sRGB profile
+Debug[13.05.2017 10:21:20.496]: Game started
+Warning[13.05.2017 10:21:21.253]: libpng warning: iCCP: known incorrect sRGB profile
+Debug[13.05.2017 10:45:30.934]: Game started
+Debug[13.05.2017 10:46:06.430]: Game started
+Warning[13.05.2017 10:46:07.097]: libpng warning: iCCP: known incorrect sRGB profile
+Debug[13.05.2017 10:46:53.668]: Game started
+Warning[13.05.2017 10:46:54.437]: libpng warning: iCCP: known incorrect sRGB profile
+Debug[13.05.2017 10:47:12.821]: Game started
+Warning[13.05.2017 10:47:13.923]: libpng warning: iCCP: known incorrect sRGB profile
+Debug[13.05.2017 10:48:43.254]: Game started
+Warning[13.05.2017 10:48:44.610]: libpng warning: iCCP: known incorrect sRGB profile
+Debug[13.05.2017 10:49:57.315]: Game started
+Warning[13.05.2017 10:49:58.746]: libpng warning: iCCP: known incorrect sRGB profile
+Debug[13.05.2017 10:50:14.373]: Game started
+Warning[13.05.2017 10:50:15.927]: libpng warning: iCCP: known incorrect sRGB profile
+Debug[13.05.2017 10:50:35.883]: Game started
+Warning[13.05.2017 10:50:37.109]: libpng warning: iCCP: known incorrect sRGB profile
+Debug[13.05.2017 10:50:46.904]: Game started
+Warning[13.05.2017 10:50:47.418]: libpng warning: iCCP: known incorrect sRGB profile
+Debug[13.05.2017 10:52:56.932]: Game started
+Warning[13.05.2017 10:52:58.540]: libpng warning: iCCP: known incorrect sRGB profile
+Debug[13.05.2017 10:58:53.416]: Game started
+Warning[13.05.2017 10:58:54.810]: libpng warning: iCCP: known incorrect sRGB profile
+Debug[13.05.2017 10:59:12.280]: Game started
+Warning[13.05.2017 10:59:13.648]: libpng warning: iCCP: known incorrect sRGB profile
+Debug[13.05.2017 11:02:19.021]: Game started
+Warning[13.05.2017 11:02:20.757]: libpng warning: iCCP: known incorrect sRGB profile
+Debug[13.05.2017 11:04:20.327]: Game started
+Warning[13.05.2017 11:04:21.163]: libpng warning: iCCP: known incorrect sRGB profile
+Debug[13.05.2017 11:08:42.288]: Game started
+Warning[13.05.2017 11:08:43.653]: libpng warning: iCCP: known incorrect sRGB profile
+Debug[13.05.2017 11:13:01.111]: Game started
+Warning[13.05.2017 11:13:01.944]: libpng warning: iCCP: known incorrect sRGB profile
+Debug[13.05.2017 11:15:31.403]: Game started
+Warning[13.05.2017 11:15:32.254]: libpng warning: iCCP: known incorrect sRGB profile
+Debug[13.05.2017 11:19:35.068]: Game started
+Warning[13.05.2017 11:19:42.260]: libpng warning: iCCP: known incorrect sRGB profile
+Debug[13.05.2017 11:26:28.661]: Game started
+Warning[13.05.2017 11:26:35.864]: libpng warning: iCCP: known incorrect sRGB profile
+Debug[13.05.2017 11:45:41.000]: Game started
+Warning[13.05.2017 11:45:48.194]: libpng warning: iCCP: known incorrect sRGB profile
+Debug[13.05.2017 11:47:36.781]: Game started
+Warning[13.05.2017 11:47:43.967]: libpng warning: iCCP: known incorrect sRGB profile
+Debug[13.05.2017 11:47:51.259]: Game started
+Warning[13.05.2017 11:47:58.464]: libpng warning: iCCP: known incorrect sRGB profile
+Debug[13.05.2017 11:48:58.937]: Game started
+Warning[13.05.2017 11:49:06.132]: libpng warning: iCCP: known incorrect sRGB profile
+Debug[13.05.2017 11:51:32.373]: Game started
+Warning[13.05.2017 11:51:39.580]: libpng warning: iCCP: known incorrect sRGB profile
+Debug[13.05.2017 11:52:54.242]: Game started
+Warning[13.05.2017 11:53:01.461]: libpng warning: iCCP: known incorrect sRGB profile
+Debug[13.05.2017 11:53:35.710]: Game started
+Warning[13.05.2017 11:53:42.920]: libpng warning: iCCP: known incorrect sRGB profile
+Debug[13.05.2017 11:54:30.952]: Game started
+Warning[13.05.2017 11:54:38.172]: libpng warning: iCCP: known incorrect sRGB profile
+Debug[13.05.2017 11:55:02.173]: Game started
+Debug[13.05.2017 11:55:13.224]: Game started
+Debug[13.05.2017 11:55:25.190]: Game started
+Debug[13.05.2017 11:55:39.347]: Game started
+Debug[13.05.2017 11:55:49.798]: Game started
+Debug[13.05.2017 11:55:59.222]: Game started
+Warning[13.05.2017 11:56:06.484]: libpng warning: iCCP: known incorrect sRGB profile
+Debug[13.05.2017 11:56:42.962]: Game started
+Warning[13.05.2017 11:56:50.239]: libpng warning: iCCP: known incorrect sRGB profile
+Debug[13.05.2017 11:57:44.594]: Game started
+Debug[13.05.2017 11:58:04.789]: Game started
+Warning[13.05.2017 11:58:12.088]: libpng warning: iCCP: known incorrect sRGB profile
+Debug[13.05.2017 11:59:43.097]: Game started
+Warning[13.05.2017 12:00:26.474]: libpng warning: iCCP: known incorrect sRGB profile
+Debug[13.05.2017 12:03:13.157]: Game started
+Warning[13.05.2017 12:03:56.558]: libpng warning: iCCP: known incorrect sRGB profile
+Debug[13.05.2017 12:09:23.975]: Game started
+Warning[13.05.2017 12:10:05.689]: libpng warning: iCCP: known incorrect sRGB profile
+Debug[13.05.2017 12:17:11.721]: Game started
+Warning[13.05.2017 12:17:12.693]: libpng warning: iCCP: known incorrect sRGB profile
+Debug[13.05.2017 12:17:30.561]: Game started
+Warning[13.05.2017 12:17:31.245]: libpng warning: iCCP: known incorrect sRGB profile
+Debug[13.05.2017 12:18:11.620]: Game started
+Warning[13.05.2017 12:18:13.395]: libpng warning: iCCP: known incorrect sRGB profile
+Debug[13.05.2017 12:18:55.248]: Game started
+Warning[13.05.2017 12:19:36.969]: libpng warning: iCCP: known incorrect sRGB profile
+Debug[13.05.2017 12:20:37.626]: Game started
+Warning[13.05.2017 12:20:46.908]: libpng warning: iCCP: known incorrect sRGB profile
+Debug[13.05.2017 12:21:08.668]: Game started
+Warning[13.05.2017 12:21:50.420]: libpng warning: iCCP: known incorrect sRGB profile
+Debug[13.05.2017 12:22:47.141]: Game started
+Warning[13.05.2017 12:23:29.315]: libpng warning: iCCP: known incorrect sRGB profile
+Debug[13.05.2017 12:24:10.567]: Game started
+Warning[13.05.2017 12:24:16.972]: libpng warning: iCCP: known incorrect sRGB profile
+Debug[13.05.2017 12:25:30.800]: Game started
+Warning[13.05.2017 12:26:14.660]: libpng warning: iCCP: known incorrect sRGB profile
+Debug[13.05.2017 12:27:55.647]: Game started
+Warning[13.05.2017 12:28:38.630]: libpng warning: iCCP: known incorrect sRGB profile
+Debug[13.05.2017 12:29:26.913]: Game started
+Warning[13.05.2017 12:29:27.675]: libpng warning: iCCP: known incorrect sRGB profile
+Debug[13.05.2017 12:34:47.499]: Game started
+Warning[13.05.2017 12:34:48.245]: libpng warning: iCCP: known incorrect sRGB profile
+Debug[13.05.2017 12:35:21.560]: Game started
+Warning[13.05.2017 12:35:43.362]: libpng warning: iCCP: known incorrect sRGB profile
+Debug[13.05.2017 12:36:47.856]: Game started
+Warning[13.05.2017 12:36:48.571]: libpng warning: iCCP: known incorrect sRGB profile
+Debug[13.05.2017 12:37:17.101]: Game started
+Warning[13.05.2017 12:37:17.650]: libpng warning: iCCP: known incorrect sRGB profile
+Debug[13.05.2017 12:53:04.512]: Game started
+Warning[13.05.2017 12:53:06.108]: libpng warning: iCCP: known incorrect sRGB profile
+Debug[13.05.2017 12:53:27.589]: Game started
+Warning[13.05.2017 12:53:28.987]: libpng warning: iCCP: known incorrect sRGB profile
+Debug[13.05.2017 12:56:50.213]: Game started
+Warning[13.05.2017 12:56:51.523]: libpng warning: iCCP: known incorrect sRGB profile
+Debug[13.05.2017 12:57:32.178]: Game started
+Warning[13.05.2017 12:57:33.445]: libpng warning: iCCP: known incorrect sRGB profile
+Debug[13.05.2017 12:57:52.479]: Game started
+Warning[13.05.2017 12:57:53.658]: libpng warning: iCCP: known incorrect sRGB profile
+Debug[13.05.2017 13:39:14.658]: Game started
+Warning[13.05.2017 13:39:15.377]: libpng warning: iCCP: known incorrect sRGB profile
+Debug[13.05.2017 13:46:24.440]: Game started
+Warning[13.05.2017 13:46:26.170]: libpng warning: iCCP: known incorrect sRGB profile
+Debug[13.05.2017 13:46:44.837]: Game started
+Warning[13.05.2017 13:46:45.648]: libpng warning: iCCP: known incorrect sRGB profile
+Debug[13.05.2017 13:47:35.440]: Game started
+Warning[13.05.2017 13:47:36.887]: libpng warning: iCCP: known incorrect sRGB profile
+Debug[13.05.2017 13:48:38.344]: Game started
+Warning[13.05.2017 13:48:38.957]: libpng warning: iCCP: known incorrect sRGB profile
+Debug[13.05.2017 13:48:51.868]: Game started
+Warning[13.05.2017 13:48:52.385]: libpng warning: iCCP: known incorrect sRGB profile
+Debug[13.05.2017 13:51:48.139]: Game started
+Warning[13.05.2017 13:51:49.480]: libpng warning: iCCP: known incorrect sRGB profile
+Warning[13.05.2017 13:51:52.742]: QPaintDevice: Cannot destroy paint device that is being painted
+Warning[13.05.2017 13:51:52.742]: QPaintDevice: Cannot destroy paint device that is being painted
+Warning[13.05.2017 13:51:52.742]: QPaintDevice: Cannot destroy paint device that is being painted
+Warning[13.05.2017 13:51:52.742]: QPaintDevice: Cannot destroy paint device that is being painted
+Debug[13.05.2017 13:52:58.870]: Game started
+Warning[13.05.2017 13:53:00.417]: libpng warning: iCCP: known incorrect sRGB profile
+Debug[13.05.2017 14:07:04.828]: Game started
+Warning[13.05.2017 14:07:06.417]: libpng warning: iCCP: known incorrect sRGB profile
+Debug[13.05.2017 14:07:29.919]: Game started
+Warning[13.05.2017 14:07:33.487]: libpng warning: iCCP: known incorrect sRGB profile
+Debug[13.05.2017 14:07:45.497]: Game started
+Warning[13.05.2017 14:07:46.058]: libpng warning: iCCP: known incorrect sRGB profile
+Debug[13.05.2017 14:07:57.910]: Game started
+Warning[13.05.2017 14:07:59.018]: libpng warning: iCCP: known incorrect sRGB profile
+Debug[13.05.2017 14:08:49.962]: Game started
+Warning[13.05.2017 14:08:51.021]: libpng warning: iCCP: known incorrect sRGB profile
+Debug[13.05.2017 14:09:10.981]: Game started
+Warning[13.05.2017 14:09:11.635]: libpng warning: iCCP: known incorrect sRGB profile
+Debug[13.05.2017 14:09:28.216]: Game started
+Warning[13.05.2017 14:09:28.664]: libpng warning: iCCP: known incorrect sRGB profile
+Debug[13.05.2017 14:09:39.745]: Game started
+Warning[13.05.2017 14:09:40.335]: libpng warning: iCCP: known incorrect sRGB profile
+Debug[13.05.2017 14:09:57.186]: Game started
+Warning[13.05.2017 14:09:57.774]: libpng warning: iCCP: known incorrect sRGB profile
+Debug[13.05.2017 14:10:18.990]: Game started
+Warning[13.05.2017 14:10:19.505]: libpng warning: iCCP: known incorrect sRGB profile
+Debug[13.05.2017 14:10:31.508]: Game started
+Warning[13.05.2017 14:10:32.033]: libpng warning: iCCP: known incorrect sRGB profile
+Debug[13.05.2017 14:10:45.502]: Game started
+Warning[13.05.2017 14:10:45.998]: libpng warning: iCCP: known incorrect sRGB profile
+Debug[13.05.2017 14:11:03.169]: Game started
+Warning[13.05.2017 14:11:03.747]: libpng warning: iCCP: known incorrect sRGB profile
+Warning[13.05.2017 14:12:24.898]: QPaintDevice: Cannot destroy paint device that is being painted
+Warning[13.05.2017 14:12:24.898]: QPaintDevice: Cannot destroy paint device that is being painted
+Warning[13.05.2017 14:12:24.902]: QPaintDevice: Cannot destroy paint device that is being painted
+Warning[13.05.2017 14:12:24.903]: QPaintDevice: Cannot destroy paint device that is being painted
+Warning[13.05.2017 14:12:24.903]: QPaintDevice: Cannot destroy paint device that is being painted
+Warning[13.05.2017 14:12:24.903]: QPaintDevice: Cannot destroy paint device that is being painted
+Warning[13.05.2017 14:12:24.903]: QPaintDevice: Cannot destroy paint device that is being painted
+Warning[13.05.2017 14:12:24.904]: QPaintDevice: Cannot destroy paint device that is being painted
+Warning[13.05.2017 14:12:24.904]: QPaintDevice: Cannot destroy paint device that is being painted
+Warning[13.05.2017 14:12:24.904]: QPaintDevice: Cannot destroy paint device that is being painted
+Warning[13.05.2017 14:12:24.905]: QPaintDevice: Cannot destroy paint device that is being painted
+Warning[13.05.2017 14:12:24.905]: QPaintDevice: Cannot destroy paint device that is being painted
+Warning[13.05.2017 14:12:32.262]: QPaintDevice: Cannot destroy paint device that is being painted
+Warning[13.05.2017 14:12:32.263]: QPaintDevice: Cannot destroy paint device that is being painted
+Warning[13.05.2017 14:12:32.267]: QPaintDevice: Cannot destroy paint device that is being painted
+Warning[13.05.2017 14:12:32.267]: QPaintDevice: Cannot destroy paint device that is being painted
+Warning[13.05.2017 14:12:32.267]: QPaintDevice: Cannot destroy paint device that is being painted
+Warning[13.05.2017 14:12:32.267]: QPaintDevice: Cannot destroy paint device that is being painted
+Warning[13.05.2017 14:12:32.267]: QPaintDevice: Cannot destroy paint device that is being painted
+Warning[13.05.2017 14:12:32.267]: QPaintDevice: Cannot destroy paint device that is being painted
+Warning[13.05.2017 14:12:32.267]: QPaintDevice: Cannot destroy paint device that is being painted
+Warning[13.05.2017 14:12:32.267]: QPaintDevice: Cannot destroy paint device that is being painted
+Warning[13.05.2017 14:12:32.267]: QPaintDevice: Cannot destroy paint device that is being painted
+Warning[13.05.2017 14:12:32.267]: QPaintDevice: Cannot destroy paint device that is being painted
+Debug[13.05.2017 14:14:31.625]: Game started
+Warning[13.05.2017 14:14:35.453]: libpng warning: iCCP: known incorrect sRGB profile
+Warning[13.05.2017 14:14:43.966]: QPaintDevice: Cannot destroy paint device that is being painted
+Warning[13.05.2017 14:14:43.966]: QPaintDevice: Cannot destroy paint device that is being painted
+Warning[13.05.2017 14:14:43.970]: QPaintDevice: Cannot destroy paint device that is being painted
+Warning[13.05.2017 14:14:43.970]: QPaintDevice: Cannot destroy paint device that is being painted
+Warning[13.05.2017 14:14:43.971]: QPaintDevice: Cannot destroy paint device that is being painted
+Warning[13.05.2017 14:14:43.971]: QPaintDevice: Cannot destroy paint device that is being painted
+Warning[13.05.2017 14:14:43.971]: QPaintDevice: Cannot destroy paint device that is being painted
+Warning[13.05.2017 14:14:43.971]: QPaintDevice: Cannot destroy paint device that is being painted
+Warning[13.05.2017 14:14:43.971]: QPaintDevice: Cannot destroy paint device that is being painted
+Warning[13.05.2017 14:14:43.972]: QPaintDevice: Cannot destroy paint device that is being painted
+Warning[13.05.2017 14:14:43.972]: QPaintDevice: Cannot destroy paint device that is being painted
+Warning[13.05.2017 14:14:43.972]: QPaintDevice: Cannot destroy paint device that is being painted
+Warning[13.05.2017 14:14:43.972]: QPaintDevice: Cannot destroy paint device that is being painted
+Warning[13.05.2017 14:14:43.973]: QPaintDevice: Cannot destroy paint device that is being painted
+Debug[13.05.2017 14:15:41.661]: Game started
+Warning[13.05.2017 14:15:42.693]: libpng warning: iCCP: known incorrect sRGB profile
+Warning[13.05.2017 14:15:51.866]: QPaintDevice: Cannot destroy paint device that is being painted
+Warning[13.05.2017 14:15:51.867]: QPaintDevice: Cannot destroy paint device that is being painted
+Warning[13.05.2017 14:15:51.871]: QPaintDevice: Cannot destroy paint device that is being painted
+Warning[13.05.2017 14:15:51.871]: QPaintDevice: Cannot destroy paint device that is being painted
+Warning[13.05.2017 14:15:51.871]: QPaintDevice: Cannot destroy paint device that is being painted
+Warning[13.05.2017 14:15:51.871]: QPaintDevice: Cannot destroy paint device that is being painted
+Warning[13.05.2017 14:15:51.872]: QPaintDevice: Cannot destroy paint device that is being painted
+Warning[13.05.2017 14:15:51.872]: QPaintDevice: Cannot destroy paint device that is being painted
+Warning[13.05.2017 14:15:51.873]: QPaintDevice: Cannot destroy paint device that is being painted
+Warning[13.05.2017 14:15:51.873]: QPaintDevice: Cannot destroy paint device that is being painted
+Warning[13.05.2017 14:15:51.873]: QPaintDevice: Cannot destroy paint device that is being painted
+Warning[13.05.2017 14:15:51.873]: QPaintDevice: Cannot destroy paint device that is being painted
+Warning[13.05.2017 14:15:51.873]: QPaintDevice: Cannot destroy paint device that is being painted
+Warning[13.05.2017 14:15:51.873]: QPaintDevice: Cannot destroy paint device that is being painted
+Warning[13.05.2017 14:15:51.873]: QPaintDevice: Cannot destroy paint device that is being painted
+Warning[13.05.2017 14:15:51.873]: QPaintDevice: Cannot destroy paint device that is being painted
+Debug[13.05.2017 14:31:01.285]: Game started
+Warning[13.05.2017 14:31:16.134]: libpng warning: iCCP: known incorrect sRGB profile
+Debug[13.05.2017 14:31:20.706]: Game started
+Warning[13.05.2017 14:31:21.576]: libpng warning: iCCP: known incorrect sRGB profile
+Warning[13.05.2017 14:31:39.838]: QPaintDevice: Cannot destroy paint device that is being painted
+Warning[13.05.2017 14:31:39.838]: QPaintDevice: Cannot destroy paint device that is being painted
+Warning[13.05.2017 14:31:39.842]: QPaintDevice: Cannot destroy paint device that is being painted
+Warning[13.05.2017 14:31:39.842]: QPaintDevice: Cannot destroy paint device that is being painted
+Warning[13.05.2017 14:31:39.842]: QPaintDevice: Cannot destroy paint device that is being painted
+Warning[13.05.2017 14:31:39.843]: QPaintDevice: Cannot destroy paint device that is being painted
+Warning[13.05.2017 14:31:39.843]: QPaintDevice: Cannot destroy paint device that is being painted
+Warning[13.05.2017 14:31:39.843]: QPaintDevice: Cannot destroy paint device that is being painted
+Warning[13.05.2017 14:31:39.844]: QPaintDevice: Cannot destroy paint device that is being painted
+Warning[13.05.2017 14:31:39.844]: QPaintDevice: Cannot destroy paint device that is being painted
+Warning[13.05.2017 14:31:39.844]: QPaintDevice: Cannot destroy paint device that is being painted
+Warning[13.05.2017 14:31:39.844]: QPaintDevice: Cannot destroy paint device that is being painted
+Warning[13.05.2017 14:31:39.844]: QPaintDevice: Cannot destroy paint device that is being painted
+Warning[13.05.2017 14:31:39.844]: QPaintDevice: Cannot destroy paint device that is being painted
+Warning[13.05.2017 14:31:39.844]: QPaintDevice: Cannot destroy paint device that is being painted
+Warning[13.05.2017 14:31:39.844]: QPaintDevice: Cannot destroy paint device that is being painted
+Warning[13.05.2017 14:31:39.844]: QPaintDevice: Cannot destroy paint device that is being painted
+Warning[13.05.2017 14:31:39.844]: QPaintDevice: Cannot destroy paint device that is being painted
+Warning[13.05.2017 14:31:42.509]: QPaintDevice: Cannot destroy paint device that is being painted
+Warning[13.05.2017 14:31:42.509]: QPaintDevice: Cannot destroy paint device that is being painted
+Warning[13.05.2017 14:31:42.509]: QPaintDevice: Cannot destroy paint device that is being painted
+Warning[13.05.2017 14:31:42.509]: QPaintDevice: Cannot destroy paint device that is being painted
+Warning[13.05.2017 14:31:42.509]: QPaintDevice: Cannot destroy paint device that is being painted
+Warning[13.05.2017 14:31:42.509]: QPaintDevice: Cannot destroy paint device that is being painted
+Warning[13.05.2017 14:31:42.509]: QPaintDevice: Cannot destroy paint device that is being painted
+Warning[13.05.2017 14:31:42.509]: QPaintDevice: Cannot destroy paint device that is being painted
+Warning[13.05.2017 14:31:42.509]: QPaintDevice: Cannot destroy paint device that is being painted
+Warning[13.05.2017 14:31:42.509]: QPaintDevice: Cannot destroy paint device that is being painted
+Warning[13.05.2017 14:31:42.510]: QPaintDevice: Cannot destroy paint device that is being painted
+Warning[13.05.2017 14:31:42.510]: QPaintDevice: Cannot destroy paint device that is being painted
+Warning[13.05.2017 14:31:42.510]: QPaintDevice: Cannot destroy paint device that is being painted
+Warning[13.05.2017 14:31:42.510]: QPaintDevice: Cannot destroy paint device that is being painted
+Warning[13.05.2017 14:31:42.510]: QPaintDevice: Cannot destroy paint device that is being painted
+Warning[13.05.2017 14:31:42.510]: QPaintDevice: Cannot destroy paint device that is being painted
+Warning[13.05.2017 14:31:42.510]: QPaintDevice: Cannot destroy paint device that is being painted
+Warning[13.05.2017 14:31:42.510]: QPaintDevice: Cannot destroy paint device that is being painted
+Warning[13.05.2017 14:31:43.893]: QPaintDevice: Cannot destroy paint device that is being painted
+Warning[13.05.2017 14:31:43.893]: QPaintDevice: Cannot destroy paint device that is being painted
+Warning[13.05.2017 14:31:43.897]: QPaintDevice: Cannot destroy paint device that is being painted
+Warning[13.05.2017 14:31:43.897]: QPaintDevice: Cannot destroy paint device that is being painted
+Warning[13.05.2017 14:31:43.897]: QPaintDevice: Cannot destroy paint device that is being painted
+Warning[13.05.2017 14:31:43.897]: QPaintDevice: Cannot destroy paint device that is being painted
+Warning[13.05.2017 14:31:43.897]: QPaintDevice: Cannot destroy paint device that is being painted
+Warning[13.05.2017 14:31:43.897]: QPaintDevice: Cannot destroy paint device that is being painted
+Warning[13.05.2017 14:31:43.897]: QPaintDevice: Cannot destroy paint device that is being painted
+Warning[13.05.2017 14:31:43.897]: QPaintDevice: Cannot destroy paint device that is being painted
+Warning[13.05.2017 14:31:43.897]: QPaintDevice: Cannot destroy paint device that is being painted
+Warning[13.05.2017 14:31:43.898]: QPaintDevice: Cannot destroy paint device that is being painted
+Warning[13.05.2017 14:31:43.898]: QPaintDevice: Cannot destroy paint device that is being painted
+Warning[13.05.2017 14:31:43.898]: QPaintDevice: Cannot destroy paint device that is being painted
+Warning[13.05.2017 14:31:43.898]: QPaintDevice: Cannot destroy paint device that is being painted
+Warning[13.05.2017 14:31:43.898]: QPaintDevice: Cannot destroy paint device that is being painted
+Warning[13.05.2017 14:31:43.898]: QPaintDevice: Cannot destroy paint device that is being painted
+Warning[13.05.2017 14:31:43.898]: QPaintDevice: Cannot destroy paint device that is being painted

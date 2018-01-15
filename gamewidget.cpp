@@ -1,12 +1,71 @@
 #include "gamewidget.h"
+#include "game.h"
+#include "loading.h"
+#include "menu.h"
+#include <QPainter>
+#include <QTimer>
 
 GameWidget::GameWidget(QWidget *parent)
     : QWidget(parent)
 {
+	setFixedSize(500,500);
+	timer = new QTimer(this);
+	connect(timer,SIGNAL(timeout()),this,SLOT(update()));
+	timer->start(5);
+}
+
+GameWidget::~GameWidget()
+{}
+
+void GameWidget::paintEvent(QPaintEvent *)
+{
+	QPainter painter(this);
+	foreach (GameObject *obj, Game::Instance().current->objects())
+	{
+		painter.drawPixmap(obj->pos(),obj->img());
+	}
+}
+
+void GameWidget::keyPressEvent(QKeyEvent *event)
+{
+	Game::Instance().current->keyPress(event);
+}
+
+void GameWidget::keyReleaseEvent(QKeyEvent *event)
+{
+	Game::Instance().current->keyRelease(this, event, timer);
+}
+
+void GameWidget::timerEvent(QTimerEvent *)
+{
+
+}
+
+void GameWidget::moveImg()
+{
+
+}
+
+void GameWidget::moveImgInst()
+{
+
+}
+
+void GameWidget::mousePressEvent(QMouseEvent *event)
+{
+
+}
+
+//LOADING STATE
+/*	bckg:
+	QPoint p0;
+	QImage bckg(":/main_menu/00.jpg");
+	painter.drawImage(p0, bckg);
+
 	//setWindowTitle("TETRIS. Now loading");
 	//setState(new loading_state);
-	/*
-    setWindowTitle("TETRIS");
+
+	setWindowTitle("TETRIS");
 	setFixedSize(500,500);
 
 	QImage logo(":/main_menu/TetrisLogo.png");
@@ -22,35 +81,5 @@ GameWidget::GameWidget(QWidget *parent)
 	prog_bar.setMaximum(100);
 	connect(&timer,SIGNAL(timeout()),SLOT(progBar()));
 	timer.start();
-	*/
-}
 
-GameWidget::~GameWidget()
-{
-
-}
-
-void GameWidget::setState(GameWidget state)
-{
-}
-/*
-void GameWidget::progBar()
-{
-	if (prog_bar.value() < prog_bar.maximum())
-		prog_bar.setValue(prog_bar.value()+1);
-	else
-	{
-		prog_bar.setHidden(true);
-		timer.stop();
-		logo_pic.setHidden(false);
-	}
-}
-
-void GameWidget::paintEvent(QPaintEvent *)
-{
-	QPainter painter(this);
-	QPoint p0;
-	QImage bckg(":/main_menu/00.jpg");
-	painter.drawImage(p0, bckg);
-}
 */

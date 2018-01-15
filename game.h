@@ -1,18 +1,28 @@
 #ifndef GAME_H
 #define GAME_H
 
-#include "loading_state.h"
-/*#include "main_menu_state.h";
-#include "game_state.h";
-#include "sb_state.h";
-*/
+#include "gamewidget.h"
+#include "state.h"
+#include <QPainter>
+#include <QList>
+
 class Game
 {
 	public:
-		Game();
+		GameWidget *game;
+		static Game& Instance();
 		void run();
-	private:
-		GameWidget mw;
-};
+		class State *current;
+		void draw(QPainter *painter);
+		void setCurrent(State *s)
+		{
+			current = s;
+		}
+		State *getState(Game *);
 
+	private:
+		Game();
+		Game(const Game& root);
+		Game& operator=(const Game&);
+};
 #endif // GAME_H

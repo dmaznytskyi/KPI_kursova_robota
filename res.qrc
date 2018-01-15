@@ -1,7 +1,6 @@
 <RCC>
     <qresource prefix="/main_menu">
         <file>00.jpg</file>
-        <file>u_large_text_4k_black.png</file>
         <file>00.png</file>
         <file>01.png</file>
         <file>02.png</file>
@@ -22,5 +21,10 @@
         <file>17.png</file>
         <file>18.png</file>
         <file>TetrisLogo.png</file>
+        <file>main_menu_0.png</file>
+        <file>gamefield.png</file>
+        <file>controls.png</file>
+        <file>scoreboard_t.png</file>
+        <file>scoreboard.png</file>
     </qresource>
 </RCC>

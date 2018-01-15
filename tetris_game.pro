@@ -26,11 +26,34 @@ DEFINES += QT_DEPRECATED_WARNINGS
 SOURCES += main.cpp\
         gamewidget.cpp \
     game.cpp \
-    loading_state.cpp
+    state.cpp \
+    gameobject.cpp \
+    log.cpp \
+    loading.cpp \
+    menu.cpp \
+    factory.cpp \
+    block.cpp \
+    tetris.cpp \
+    tetrimino.cpp \
+    text.cpp \
+    data_player.cpp \
+    scoreboard.cpp
 
 HEADERS  += gamewidget.h \
     game.h \
-    loading_state.h
+    state.h \
+    gameobject.h \
+    log.h \
+    loading.h \
+    menu.h \
+    factory.h \
+    block.h \
+    tetris.h \
+    tetrimino.h \
+    text.h \
+    data_player.h \
+    scoreboard.h
+     
 
 RESOURCES += \
     res.qrc
