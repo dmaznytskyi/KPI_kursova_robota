@@ -58,7 +58,7 @@ Tetris::Tetris()
 	controls->setDescription(QRect(348,238,104,222),":/main_menu/controls.png");
 
 	tetrimino->setColliding(PlacedTetriminoesMap);
-
+	Score = 0;
 //	animation = animation_factory->createObject(QRect(300,300,40,40),":/images/explosion.png",5);
 /*
 	base = block_factory->createObject();
@@ -125,7 +125,7 @@ Tetris::Tetris()
 	Pause = false;
 
 	bullet = nullptr;
-	Score = 0;
+
 	pauser = 0;
 	EnemyCount = 0;
 	*/
@@ -363,7 +363,7 @@ void Tetris::setHighscore()
 	{
 		std::vector<data_player> data;
 
-		QFile inputFile("/Users/dmaznytskyi/univer/OOP/labs/tetris_game/highscores.txt");
+		QFile inputFile("/Users/dmaznytskyi/KPI_kursova_robota/highscores.txt");
 
 		inputFile.open(QFile::ReadOnly);
 		QTextStream in(&inputFile);
@@ -392,12 +392,10 @@ void Tetris::setHighscore()
 		data.clear();
 		inputFile.close();
 		Game::Instance().setCurrent(new Scoreboard);
-		//  delete this;
 	}
 	else
 	{
 		Game::Instance().setCurrent(Menu::Instance());
-		// delete this;
 	}
 }
 

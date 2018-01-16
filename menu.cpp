@@ -76,13 +76,16 @@ QVector<GameObject *> Menu::objects()
 	switch (MenuItem)
 	{
 	case 1:
-		pointer->setDescription(QRect(47,270,46,32),":/main_menu/16.png");
+		pointer->setDescription(QRect(100,265,46,32),":/main_menu/16.png");
 		break;
 	case 2:
-		pointer->setDescription(QRect(50,330,32,47),":/main_menu/17.png");
+		pointer->setDescription(QRect(110,305,32,47),":/main_menu/17.png");
 		break;
 	case 3:
-		pointer->setDescription(QRect(115,405,47,32),":/main_menu/18.png");
+		pointer->setDescription(QRect(100,365,47,32),":/main_menu/18.png");
+		break;
+	case 4:
+		pointer->setDescription(QRect(110,400,32,47),":/main_menu/15.png");
 		break;
 	}
 	return objects;
@@ -100,13 +103,16 @@ void Menu::keyPress(QKeyEvent *event)
 		switch (MenuItem)
 		{
 		case 1:
-			MenuItem = 3;
+			MenuItem = 4;
 			break;
 		case 2:
 			MenuItem = 1;
 			break;
 		case 3:
 			MenuItem = 2;
+			break;
+		case 4:
+			MenuItem = 3;
 			break;
 		}
 	}
@@ -122,6 +128,9 @@ void Menu::keyPress(QKeyEvent *event)
 			MenuItem = 3;
 			break;
 		case 3:
+			MenuItem = 4;
+			break;
+		case 4:
 			MenuItem = 1;
 			break;
 		}
@@ -138,6 +147,9 @@ void Menu::keyPress(QKeyEvent *event)
 			Game::Instance().setCurrent(new Scoreboard);
 			break;
 		case 3:
+			Game::Instance().setCurrent(new Scoreboard);
+			break;
+		case 4:
 			Game::Instance().game->close();
 			break;
 		}

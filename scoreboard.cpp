@@ -18,7 +18,7 @@ Scoreboard::Scoreboard()
 	table.append(Table);
 
 
-	QFile inputFile("/Users/dmaznytskyi/univer/OOP/labs/tetris_game/highscores.txt");
+	QFile inputFile("/Users/dmaznytskyi/KPI_kursova_robota/highscores.txt");
 	if (inputFile.open(QIODevice::ReadOnly))
 	{
 	   QTextStream in(&inputFile);
