@@ -1,6 +1,11 @@
 #ifndef SCOREBOARD_H
 #define SCOREBOARD_H
 
+#include <algorithm>
+#include <iostream>
+#include <vector>
+#include <string>
+
 #include "state.h"
 #include "factory.h"
 #include "gameobject.h"

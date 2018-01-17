@@ -2,6 +2,7 @@
 #include "game.h"
 #include "tetris.h"
 #include "scoreboard.h"
+#include "about.h"
 
 #include <QDebug>
 
@@ -147,7 +148,7 @@ void Menu::keyPress(QKeyEvent *event)
 			Game::Instance().setCurrent(new Scoreboard);
 			break;
 		case 3:
-			Game::Instance().setCurrent(new Scoreboard);
+			Game::Instance().setCurrent(new About);
 			break;
 		case 4:
 			Game::Instance().game->close();

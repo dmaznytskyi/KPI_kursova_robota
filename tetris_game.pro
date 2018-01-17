@@ -37,7 +37,8 @@ SOURCES += main.cpp\
     tetrimino.cpp \
     text.cpp \
     data_player.cpp \
-    scoreboard.cpp
+    scoreboard.cpp \
+    about.cpp
 
 HEADERS  += gamewidget.h \
     game.h \
@@ -52,7 +53,8 @@ HEADERS  += gamewidget.h \
     tetrimino.h \
     text.h \
     data_player.h \
-    scoreboard.h
+    scoreboard.h \
+    about.h
      
 
 RESOURCES += \

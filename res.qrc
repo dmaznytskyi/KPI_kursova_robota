@@ -26,5 +26,6 @@
         <file>controls.png</file>
         <file>scoreboard_t.png</file>
         <file>scoreboard.png</file>
+        <file>author.png</file>
     </qresource>
 </RCC>
