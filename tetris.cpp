@@ -42,9 +42,6 @@ Tetris::Tetris()
 	tnext = tetrimino_factory->createObject();
 	tnext->setDescription(QRect(375,75,20,20),":/main_menu/00.png");
 
-	tetrimino = tetrimino_factory->createObject();
-	tetrimino->setDescription(QRect(200,200,20,20),":/main_menu/00.png");
-
 	bckg = block_factory->createObject();
 	bckg->setDescription(QRect(0,0,500,500),":/main_menu/00.jpg");
 
@@ -56,6 +53,9 @@ Tetris::Tetris()
 
 	controls = block_factory->createObject();
 	controls->setDescription(QRect(348,238,104,222),":/main_menu/controls.png");
+
+	tetrimino = tetrimino_factory->createObject();
+	tetrimino->setDescription(QRect(200,200,75,50),":/main_menu/00.png");
 
 	tetrimino->setColliding(PlacedTetriminoesMap);
 	Score = 0;
@@ -147,12 +147,15 @@ QVector <GameObject*> Tetris::objects()
 {
 	gameobjects.clear();
 //	gameobjects.append(bckg);
+	gameobjects.append(tetrimino);
 	gameobjects.append(gamefield);
 	gameobjects.append(tnext);
 	gameobjects.append(next);
 	gameobjects.append(score);
 	gameobjects.append(controls);
-	gameobjects.append(tetrimino);
+
+	tetrimino = tetrimino_factory->createObject();
+	tetrimino->setDescription(QRect(200,200,75,50),":/main_menu/00.png");
 /*
 	gameobjects.append(border);
 

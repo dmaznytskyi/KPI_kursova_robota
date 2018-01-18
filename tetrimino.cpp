@@ -6,28 +6,19 @@ Tetrimino::Tetrimino()
 	directionRight = 0;
 	directionUp = -1;
 
-	bulletHit = true;
-
 //	bullet = new Bullet(QPoint(this->getX()+15*directionRight,this->getY()+15*directionUp),directionRight,directionUp);
 
 //	connect(Game::Instance().game->timer,SIGNAL(timeout()),this,SLOT(checkBullet()));
 
 	speed_x = 0;
 	speed_y = 0;
+	tetr_state = rand() % 19;
 
-	Lifes = 3;
-	Notdead = true;
+	QString prefix = (QString::number(tetr_state).length() == 1) ? "0" : "";
 
-	player_type = 1;
-
-	image.load(":/images/images/PlayerUp.png");
-	size = QRect(375,75,30,30);
-	connect(Game::Instance().game->timer,SIGNAL(timeout()),this,SLOT(updatePos()));
-}
-
-int Tetrimino::getLifes()
-{
-	return Lifes;
+	image.load(":/main_menu/" + prefix + QString::number(tetr_state) + ".png");
+	size = QRect(375,75,100,100);
+	//connect(Game::Instance().game->timer,SIGNAL(timeout()),this,SLOT(updatePos()));
 }
 
 void Tetrimino::updatePos()
@@ -46,37 +37,9 @@ void Tetrimino::updatePos()
 	size.translate(-speed_x,-speed_y);
 }
 
-int Tetrimino::getType()
-{
-	return player_type;
-}
-
 void Tetrimino::die()
 {
-	Lifes--;
-	if ( Lifes !=0)
-	{
-		if(player_type == 1)
-	  size = QRect(320,530,30,30);
-		else
-	  size = QRect(380,530,30,30);
-	}else{
-		disconnect(Game::Instance().game->timer,SIGNAL(timeout()),this,SLOT(updatePos()));
-	}
-}
-
-void Tetrimino::setType(QPoint pos, int type)
-{
-	size.setRect(pos.x(),pos.y(),30,30);
-	player_type = type;
-
-	if( type == 2)
-	image.load(":/images/Player2Up.png");
-}
-
-GameObject* Tetrimino::bulletPointer()
-{
-	return bullet;
+	disconnect(Game::Instance().game->timer,SIGNAL(timeout()),this,SLOT(updatePos()));
 }
 
 void Tetrimino::move()
@@ -120,28 +83,8 @@ QRect Tetrimino::pos()
 	return size;
 }
 
-void Tetrimino::moveUp()
-{
-	if(player_type == 1)
-   image.load(":/images/images/PlayerUp.png");
-	else
-   image.load(":/images/Player2Up.png");
-
-   directionRight  = 0;
-   directionUp = -1;
-
-   speed_x = 0;
-   speed_y = -2;
-
-}
-
 void Tetrimino::moveDown()
 {
-	if(player_type == 1)
-   image.load(":/images/images/PlayerDown.png");
-	else
-   image.load(":/images/Player2Down.png");
-
 	directionRight  = 0;
 	directionUp = 1;
 
@@ -151,11 +94,6 @@ void Tetrimino::moveDown()
 
 void Tetrimino::moveLeft()
 {
-	if(player_type == 1)
-   image.load(":/images/images/PlayerLeft.png");
-	else
-   image.load(":/images/Player2Left.png");
-
 	directionRight  = -1;
 	directionUp = 0;
 
@@ -165,11 +103,6 @@ void Tetrimino::moveLeft()
 
 void Tetrimino::moveRight()
 {
-	if(player_type == 1)
-   image.load(":/images/images/PlayerRight.png");
-	else
-   image.load(":/images/Player2Right.png");
-
 	directionRight  = 1;
 	directionUp = 0;
 
@@ -182,22 +115,6 @@ void Tetrimino::setColliding(QVector<GameObject *> vector)
 	collidings = vector;
 }
 
-void Tetrimino::checkBullet()
-{
-	if(bullet!= nullptr)
-	{
-		if(bullet->hit())
-		{
-			bulletHit = true;
-			delete bullet;
-			bullet = nullptr;
-		}else
-		{
-			bulletHit = false;
-		}
-	}
-}
-
 bool Tetrimino::isActive()
 {
 	return Notdead;
@@ -207,13 +124,81 @@ void Tetrimino::setActive(bool a)
 	Notdead = a;
 }
 
-//TODO!!!
 void Tetrimino::rotate()
 {
-	if(bulletHit)
+	switch (tetr_state)
 	{
-	   delete bullet;
-//	   bullet = new Bullet(QPoint(size.x()+12,size.y()+13),directionRight,directionUp);
-//	   QSound::play(":/sound/shoot.wav");
+		case 0:
+			image.load(":/main_menu/01.png");
+			size = QRect(375,75,50,75);
+			break;
+		case 1:
+			image.load(":/main_menu/00.png");
+			size = QRect(375,75,75,50);
+			break;
+		case 3:
+			image.load(":/main_menu/04.png");
+			size = QRect(375,75,50,75);
+			break;
+		case 4:
+			image.load(":/main_menu/03.png");
+			size = QRect(375,75,75,50);
+			break;
+		case 5:
+			image.load(":/main_menu/06.png");
+			size = QRect(375,75,50,75);
+			break;
+		case 6:
+			image.load(":/main_menu/07.png");
+			size = QRect(375,75,75,50);
+			break;
+		case 7:
+			image.load(":/main_menu/08.png");
+			size = QRect(375,75,50,75);
+			break;
+		case 8:
+			image.load(":/main_menu/05.png");
+			size = QRect(375,75,75,50);
+			break;
+		case 9:
+			image.load(":/main_menu/10.png");
+			size = QRect(375,75,25,100);
+			break;
+		case 10:
+			image.load(":/main_menu/09.png");
+			size = QRect(375,75,100,25);
+			break;
+		case 11:
+			image.load(":/main_menu/12.png");
+			size = QRect(375,75,50,75);
+			break;
+		case 12:
+			image.load(":/main_menu/13.png");
+			size = QRect(375,75,75,50);
+			break;
+		case 13:
+			image.load(":/main_menu/14.png");
+			size = QRect(375,75,50,75);
+			break;
+		case 14:
+			image.load(":/main_menu/11.png");
+			size = QRect(375,75,75,50);
+			break;
+		case 15:
+			image.load(":/main_menu/16.png");
+			size = QRect(375,75,75,50);
+			break;
+		case 16:
+			image.load(":/main_menu/17.png");
+			size = QRect(375,75,50,75);
+			break;
+		case 17:
+			image.load(":/main_menu/18.png");
+			size = QRect(375,75,75,50);
+			break;
+		case 18:
+			image.load(":/main_menu/15.png");
+			size = QRect(375,75,50,75);
+			break;
 	}
 }
